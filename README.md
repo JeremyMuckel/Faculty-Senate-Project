@@ -4,10 +4,10 @@ Faculty-Senate-Project
 
 Project for Software Engineering at Salisbury University to create software for the Faculty Senate
 
-<br /><br />
-Jeremy Muckel
-Andrew Jones
-Jesse Aldrich
-Mike Gicking
-Ryan Sherman
+<br />
+Jeremy Muckel<br />
+Andrew Jones<br />
+Jesse Aldrich<br />
+Mike Gicking<br />
+Ryan Sherman<br />
 <br />
