@@ -24,6 +24,3 @@ Session(“uname”) = SU network username<br />
 Session(“fname”) = first name<br />
 Session(“lname”) = last name<br />
 Session(“dept”) = department<br />
-
-
-jessetest2
